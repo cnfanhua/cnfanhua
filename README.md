@@ -40,21 +40,17 @@
 
 </p>
 
-<table border="0" style="width:100%">
- <tr border="0">
-  <td border="0" style="width:50%">
-   
-[![cnfanhua's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnfanhua&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-  </td> 
-  <td border="0" style="width:50%">
-   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnfanhua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  </td>
- </tr>
-</table>
-
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=cnfanhua&show_icons=true&theme=transparent&count_private=true"/>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=cnfanhua&show_icons=true&theme=transparent&count_private=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=cnfanhua&show_icons=true&theme=transparent&count_private=true" width="430"> 
+  </picture> 
+  <picture>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnfanhua&theme=transparent&layout=compact&hide=html,css" alt="Top Langs" width="360">
+  </picture>
+</p>
+ 
 <!--
 **cnfanhua/cnfanhua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
