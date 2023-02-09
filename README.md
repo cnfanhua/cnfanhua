@@ -40,7 +40,20 @@
 
 </p>
 
+<table border="0" style="width:100%">
+ <tr border="0">
+  <td border="0" style="width:50%">
+   
 [![cnfanhua's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnfanhua&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  </td> 
+  <td border="0" style="width:50%">
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnfanhua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  </td>
+ </tr>
+</table>
 
 <!--
 **cnfanhua/cnfanhua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
