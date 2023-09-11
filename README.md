@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=fanhua;欢迎来到我的github)](https://git.io/typing-svg)
  
 ## 💬 &nbsp;About Me
-  我是fanhua，一名菜鸡“全干程序员”。自2016工作至今，web方向（偏后端）。
+  我是fanhua，一名菜鸡“全干程序员”。web方向（偏后端）。
  
 ## 🚀 &nbsp;Languages...Tools... I Have Used and Learned
 <!--
@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-  <picture>
+<!--  <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=cnfanhua&show_icons=true&theme=transparent&count_private=true"/>
     <source srcset="https://github-readme-stats.vercel.app/api?username=cnfanhua&show_icons=true&theme=transparent&count_private=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"/>
     <img src="https://github-readme-stats.vercel.app/api?username=cnfanhua&show_icons=true&theme=transparent&count_private=true" width="430"> 
-  </picture> 
+  </picture>  -->
   <picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnfanhua&theme=transparent&layout=compact&hide=html,css" alt="Top Langs" width="360">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnfanhua&theme=transparent&hide=html,css" alt="Top Langs" width="360">
   </picture>
 </p>
  
