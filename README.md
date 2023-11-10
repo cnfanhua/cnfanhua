@@ -45,10 +45,10 @@
     <source srcset="https://github-readme-stats.vercel.app/api?username=cnfanhua&show_icons=true&theme=transparent&count_private=true"/>
     <source srcset="https://github-readme-stats.vercel.app/api?username=cnfanhua&show_icons=true&theme=transparent&count_private=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"/>
     <img src="https://github-readme-stats.vercel.app/api?username=cnfanhua&show_icons=true&theme=transparent&count_private=true" width="430"> 
-  </picture>  -->
+  </picture> 
   <picture>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnfanhua&theme=transparent&hide=html,css" alt="Top Langs" width="360">
-  </picture>
+  </picture> -->
 </p>
  
 <!--
